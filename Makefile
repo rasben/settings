@@ -12,6 +12,7 @@ setup-slate:
 	ln -s $(MAKEFILE_DIR)/slate/.slate ~/.slate
 setup-vim:
 	ln -s $(MAKEFILE_DIR)/vim/.vimrc ~/.vimrc
+	ln -s $(MAKEFILE_DIR)/vim/.vim ~/.vim
 setup-git:
 	ln -s $(MAKEFILE_DIR)/git/.gitconfig ~/.gitconfig
 setup-zsh:
