@@ -17,5 +17,7 @@ setup-git:
 	ln -s $(MAKEFILE_DIR)/git/.gitconfig ~/.gitconfig
 setup-zsh:
 	ln -s $(MAKEFILE_DIR)/zsh/.zshrc ~/.zshrc
-setup: setup-custom setup-docker-sync setup-slate setup-vim setup-git setup-zsh
+setup-dirs:
+	mkdir -p ~/code/dockers
+setup: setup-dirs setup-custom setup-docker-sync setup-slate setup-vim setup-git setup-zsh
 
