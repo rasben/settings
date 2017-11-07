@@ -1,0 +1,67 @@
+----------------- Screens -----------------
+Left To Right ID: 1
+  OS X ID: 0
+  Resolution: 1280x800
+Left To Right ID: 0
+  OS X ID: 1
+  Resolution: 1920x1200
+
+----------------- Windows -----------------
+
+Application: Skype
+  Window: 'Skype'
+    Screen ID (Left to Right): 1
+    Size: (850, 671)
+    Top Left: (screenOriginX+405, screenOriginY+14)
+
+Application: Terminal
+
+Application: Harvest
+  Window: 'Harvest'
+    Screen ID (Left to Right): 0
+    Size: (400, 414)
+    Top Left: (screenOriginX+1464, screenOriginY+72)
+
+Application: Sequel Pro
+  Window: 'Sequel Pro'
+    Screen ID (Left to Right): 0
+    Size: (1154, 957)
+    Top Left: (screenOriginX+685, screenOriginY+162)
+
+Application: Postman
+  Window: 'Postman'
+    Screen ID (Left to Right): 0
+    Size: (1330, 894)
+    Top Left: (screenOriginX+278, screenOriginY+196)
+
+Application: Flowdock
+  Window: 'Flowdock settings - Layout'
+    Screen ID (Left to Right): 0
+    Size: (1330, 894)
+    Top Left: (screenOriginX+390, screenOriginY+122)
+  Window: '(*) Mads - Flowdock'
+    Screen ID (Left to Right): 0
+    Size: (1000, 772)
+    Top Left: (screenOriginX+460, screenOriginY+196)
+
+Application: Sublime Text
+  Window: 'Preferences.sublime-settings'
+    Screen ID (Left to Right): 0
+    Size: (1710, 1117)
+    Top Left: (screenOriginX+200, screenOriginY+10)
+
+Application: Google Chrome
+  Window: 'disable cmd tab shortcut mac - Google-søgning'
+    Screen ID (Left to Right): 0
+    Size: (1710, 1117)
+    Top Left: (screenOriginX+10, screenOriginY+10)
+
+Application: Finder
+
+Application: Telegram
+  Window: 'Telegram'
+    Screen ID (Left to Right): 1
+    Size: (828, 600)
+    Top Left: (screenOriginX+15, screenOriginY+14)
+
+Application: ChitChat

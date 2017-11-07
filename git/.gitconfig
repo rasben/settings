@@ -1,0 +1,7 @@
+[user]
+	name = Benjamin Rasmussen
+	email = benjamin@reload.dk
+[push]
+	default = simple
+[alias]
+	co = checkout

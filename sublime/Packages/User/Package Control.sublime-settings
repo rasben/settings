@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Agila Theme",
+		"AutoFileName",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSSLint",
+		"Diffy",
+		"Drupal",
+		"HighlightWords",
+		"JSHint",
+		"JSONLint",
+		"JsonTree",
+		"Monokai - Spacegray",
+		"Package Control",
+		"PackageResourceViewer",
+		"Phpcs",
+		"Pretty JSON",
+		"Python 3",
+		"Python Checker",
+		"RemoteCollab",
+		"Sass",
+		"SCSS",
+		"SFTP",
+		"SublimeLinter",
+		"SublimeLinter-contrib-sublime-syntax",
+		"SublimeLinter-php",
+		"Symfony2 Snippets",
+		"Theme - Lanzhou",
+		"Theme - Spacegray",
+		"TrailingSpaces",
+		"Twig"
+	]
+}

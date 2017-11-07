@@ -1,0 +1,40 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"dpi_scale": 1.0,
+	"font_size": 15,
+	"hide_minimap": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"spacegray_sidebar_font_large": true,
+	"spacegray_sidebar_tree_xlarge": true,
+	"spacegray_tabs_auto_width": true,
+	"spacegray_tabs_font_large": true,
+	"spacegray_tabs_xlarge": true,
+	"tab_size": 2,
+	"theme": "Agila Classic.sublime-theme",
+	"theme_sidebar_file_icons_hidden": true,
+	"theme_sidebar_folder_materialized": true,
+	"theme_sidebar_folder_mono": true,
+	"theme_sidebar_font_lg": true,
+	"theme_sidebar_font_md": true,
+	"theme_sidebar_font_xl": true,
+	"theme_sidebar_icon_saturation_hg": true,
+	"theme_sidebar_icon_saturation_lw": true,
+	"theme_sidebar_icon_saturation_md": true,
+	"theme_sidebar_icon_saturation_xh": true,
+	"theme_sidebar_size_lg": true,
+	"theme_sidebar_size_xl": true,
+	"theme_tab_font_xl": true,
+	"theme_tab_selected_prelined": true,
+	"theme_tab_size_lg": true,
+	"theme_tab_size_md": true,
+	"theme_tab_size_xl": true,
+	"theme_tab_width_auto": true,
+	"translate_tabs_to_spaces": true
+}

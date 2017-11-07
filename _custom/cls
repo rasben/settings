@@ -1,0 +1,19 @@
+#!/bin/bash 
+# Change directory
+
+DIR="$1"
+
+if [ -z "$DIR" ]; then
+clear
+ls
+
+else
+  cd "$DIR"
+  if [ "$?" = "0" ]; then
+    clear
+    ls
+  else
+    echo "Could not CD" 1>&2
+  fi
+fi
+
