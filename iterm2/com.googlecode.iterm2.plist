@@ -32,7 +32,7 @@
 		<key>0x53-0x120000</key>
 		<dict>
 			<key>Action</key>
-			<integer>29</integer>
+			<integer>28</integer>
 			<key>Text</key>
 			<string>C9328070-CB52-4A66-954F-62D4E6665B6F</string>
 		</dict>
@@ -194,7 +194,7 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 126 606 469 0 0 1280 800 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>52 236 796 473 0 0 1280 800 </string>
+	<string>52 280 796 473 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>28 303 585 452 0 0 1280 777 </string>
 	<key>New Bookmarks</key>
