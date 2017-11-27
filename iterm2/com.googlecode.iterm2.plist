@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AlternateMouseScroll</key>
+	<true/>
 	<key>AppleAntiAliasingThreshold</key>
 	<integer>1</integer>
 	<key>AppleScrollAnimationEnabled</key>
@@ -194,9 +196,9 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 126 606 469 0 0 1280 800 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>52 280 796 473 0 0 1280 800 </string>
+	<string>52 324 796 473 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>28 303 585 452 0 0 1280 777 </string>
+	<string>255 215 585 375 0 0 1280 777 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1591,7 +1593,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>4BDD1711-DBD6-4DC0-B3B7-ABB3BB4B4206</string>
 	<key>NoSyncLastTipTime</key>
-	<real>531751418.59201097</real>
+	<real>532858918.40321702</real>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -1604,6 +1606,16 @@
 	<array>
 		<string>000</string>
 		<string>0000</string>
+		<string>0001</string>
+		<string>0002</string>
+		<string>0003</string>
+		<string>0004</string>
+		<string>0005</string>
+		<string>0006</string>
+		<string>0007</string>
+		<string>0008</string>
+		<string>0009</string>
+		<string>0010</string>
 	</array>
 	<key>PointerActions</key>
 	<dict>

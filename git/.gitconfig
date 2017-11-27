@@ -2,6 +2,6 @@
 	name = Benjamin Rasmussen
 	email = benjamin@reload.dk
 [push]
-	default = simple
+	default = current
 [alias]
 	co = checkout

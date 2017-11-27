@@ -97,6 +97,7 @@ alias dco=docker-compose
 alias dss=docker-sync-stack
 alias ds=docker-sync
 alias dr="dory restart"
+alias ddrush="dce drush"
 
 export NVM_DIR="/Users/rasben/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
