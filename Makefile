@@ -18,5 +18,5 @@ setup-zsh:
 	ln -s $(MAKEFILE_DIR)/zsh/.zshrc ~/.zshrc
 setup-dirs:
 	mkdir -p ~/code/dockers
-setup: setup-dirs setup-custom setup-docker-sync setup-slate setup-vim setup-git setup-zsh
+setup: setup-dirs setup-custom setup-slate setup-vim setup-git setup-zsh
 
