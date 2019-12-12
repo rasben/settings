@@ -6,8 +6,6 @@ setup-custom:
 	ln -s $(MAKEFILE_DIR)/$(CUSTOM_DIR)/cla ~/cla  
 	ln -s $(MAKEFILE_DIR)/$(CUSTOM_DIR)/cls ~/cls  
 	ln -s $(MAKEFILE_DIR)/$(CUSTOM_DIR)/clsa ~/clsa  
-setup-docker-sync:
-	ln -s $(MAKEFILE_DIR)/docker-sync/.docker-sync-global.yml ~/.docker-sync-global.yml
 setup-slate:
 	ln -s $(MAKEFILE_DIR)/slate/.slate ~/.slate
 setup-vim:

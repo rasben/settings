@@ -95,6 +95,7 @@ alias sublime=subl
 alias pstorm=phpstorm
 alias dco=docker-compose
 alias dss=docker-sync-stack
+alias dsss="dss start"
 alias ds=docker-sync
 alias dr="dory restart"
 alias ddrush="dce drush"
@@ -119,7 +120,7 @@ NC='\033[0m' # No Color
 }
 
 #export PATH="$(brew --prefix homebrew/php/php56)/bin:$PATH"
-export PATH="$(brew --prefix homebrew/php/php70)/bin:$PATH"
+#export PATH="$(brew --prefix homebrew/php/php70)/bin:$PATH"
 
 function dssh() {
   docker exec -ti `docker ps | grep $1 | cut -c 1-12` bash
@@ -137,3 +138,9 @@ export PATH=$(brew --prefix openvpn)/sbin:$PATH
 export UID
 
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
+
+if [[ ${PWD} == ${HOME}* ]]; then
+  export HOME=/System/Volumes/Data/Users/`whoami`
+  cd /System/Volumes/Data/${PWD}
+fi
+

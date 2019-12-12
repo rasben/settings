@@ -1,7 +1,5 @@
 ---
 update_check: true
-update_last_check: '2017-11-27T11:28:09.396902000+01:00'
+update_last_check: '2019-11-14T11:40:21.507429000+01:00'
 update_enforce: true
-upgrade_status: '0.5.0
-
-'
+upgrade_status: 0.5.8

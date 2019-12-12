@@ -8,4 +8,3 @@ syntax on
 set ww+=<,>
 set paste
 set whichwrap+=<,>,h,l,[,]
-

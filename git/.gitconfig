@@ -5,3 +5,7 @@
 	default = current
 [alias]
 	co = checkout
+[difftool "idiff"]
+	cmd = diff -i $LOCAL $REMOTE
+[core]
+	excludesfile = ~/.gitignore
