@@ -16,7 +16,9 @@ setup-git:
 	git clone git@github.com:reload/reload-ssh-config.git ~/.ssh/reload-ssh-config
 setup-zsh:
 	ln -s $(MAKEFILE_DIR)/zsh/.zshrc ~/.zshrc
+setup-iterm2:
+	ln -s $(MAKEFILE_DIR)/iterm2 ~/iterm2
 setup-dirs:
-	mkdir -p ~/code/dockers
-setup: setup-dirs setup-custom setup-slate setup-vim setup-git setup-zsh
+	mkdir -p ~/code/
+setup: setup-dirs setup-custom setup-slate setup-vim setup-git setup-zsh setup-iterm2
 
