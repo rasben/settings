@@ -13,6 +13,7 @@ setup-vim:
 	ln -s $(MAKEFILE_DIR)/vim/.vim ~/.vim
 setup-git:
 	ln -s $(MAKEFILE_DIR)/git/.gitconfig ~/.gitconfig
+	git clone git@github.com:reload/reload-ssh-config.git ~/.ssh/reload-ssh-config
 setup-zsh:
 	ln -s $(MAKEFILE_DIR)/zsh/.zshrc ~/.zshrc
 setup-dirs:
